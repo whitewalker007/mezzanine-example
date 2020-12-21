@@ -1,3 +1,4 @@
+~/mezzanine-example$ bin/pip freeze
 Django==1.6.11
 Mezzanine==3.1.10
 Pillow==2.9.0
